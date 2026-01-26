@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Developing in JavaScript...</title>
+            <body>
+                <script>
+                    const n1 = Number(prompt('Digite a nota 1:'))
+                    const n2 = Number(prompt('Digite a nota 2:')) 
+                    const n3 = Number(prompt('Digite a nota 3:')) 
+                    const n4 = Number(prompt('Digite a nota 4:')) 
+                    
+                    const media = (n1 + n2 + n3 + n4) / 4
+
+                    if(media >= 7){
+                        alert('Sua média foi: ' + media + ', você está APROVADO!')
+                    } else if (media <5){
+                        alert('Sua média foi: ' + media + ', você está REPROVADO!')
+                    } else{
+                        alert('Sua média foi: ' + media + ', você está de RECUPERAÇÃO!')
+                    }
+                </script>
+            </body>
+    </head>
+</html>
