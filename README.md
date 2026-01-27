@@ -1,8 +1,8 @@
-🧮 Operador Ternário e IF/ELSE:
-Este repositório contém um projeto focado no aprendizado e na prática das estruturas de decisão IF/ELSE e do operador ternário, aplicadas à lógica de programação. O projeto foi desenvolvido com fins educacionais, auxiliando na compreensão de como decisões condicionais são utilizadas para controlar o fluxo de execução de um programa.
+🧮 Operador IF/ELSE:
+Este repositório contém um projeto focado no aprendizado e na prática das estruturas de decisão IF/ELSE, aplicadas à lógica de programação. O projeto foi desenvolvido com fins educacionais, auxiliando na compreensão de como decisões condicionais são utilizadas para controlar o fluxo de execução de um programa.
 
 📌 Objetivo do Projeto:
-O objetivo deste projeto é demonstrar o funcionamento das estruturas condicionais IF/ELSE e do operador ternário, por meio de exemplos e exercícios práticos, servindo como base para estudos iniciais em programação, tomada de decisão e desenvolvimento do raciocínio lógico.
+O objetivo deste projeto é demonstrar o funcionamento das estruturas condicionais IF/ELSE, por meio de exemplos e exercícios práticos, servindo como base para estudos iniciais em programação, tomada de decisão e desenvolvimento do raciocínio lógico.
 
 🛠️ Tecnologias Utilizadas:
 - Linguagem utilizada: (JavaScript)
@@ -16,7 +16,6 @@ O objetivo deste projeto é demonstrar o funcionamento das estruturas condiciona
 - Abra o arquivo index.html em qualquer navegador web
 
 📚 Aprendizados:
-- Operador Ternário
 - IF/ELSE
 
 👤 Autor: Esdra Fontes
