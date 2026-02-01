@@ -14,11 +14,11 @@ O objetivo deste projeto é demonstrar a estrutura básica de uso de condicionai
 
 📁 Estrutura do Projeto: 
 ---
-Operador-Ternario_IF-ELSE/ │ ├── index.html
+Operador-IF-ELSE/ │ ├── index.html
 
 ▶️ Como Executar o Projeto:
 ---
-- Clone este repositório: git clone https://github.com/Esdra-Fontes/Operador-Ternario_IF-ELSE.git
+- Clone este repositório: git clone https://github.com/Esdra-Fontes/Operador-IF-ELSE.git
 - Acesse a pasta do projeto
 - Abra o arquivo index.html em qualquer navegador web
 
