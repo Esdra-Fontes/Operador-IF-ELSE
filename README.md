@@ -1,4 +1,4 @@
-🌐 Operador IF-ELSE:
+🧮 Operador IF-ELSE:
 ---
 O **Operador IF-ELSE** é uma estrutura de decisão em JavaScript usada para executar blocos de código diferentes com base em condições booleanas. Ele permite ao programa “escolher” entre caminhos conforme valores ou estados avaliados.
 
